@@ -1,11 +1,11 @@
-## pwnyOS
+## PwnyOS
 
-pwnyOS is an x86 operating system built around OS security education.
+PwnyOS is an x86 operating system built around OS security education.
 
-### Features
+### UIUCTF 2021
 
-pwnyOS has a bunch of features.
+Good luck to all our participants playing UIUCTF 2021! Check back here after the event for more PwnyOS content :)
 
 ### About the Author
 
-pwnyOS was written for UIUCTF 2020, a CTF presented by the University of Illinois at Urbana-Champaign undergraduate security club, SIGPwny. It was written by ravi (jprx).
+PwnyOS was written for UIUCTF 2020 and UIUCTF 2021, a CTF presented by the University of Illinois at Urbana-Champaign undergraduate security club, SIGPwny. It was written by ravi (jprx).
